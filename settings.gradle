@@ -1,0 +1,3 @@
+include ':ExampleLib'
+include ':app'
+rootProject.name = "LibExample"
